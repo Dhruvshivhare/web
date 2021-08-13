@@ -1,0 +1,26 @@
+.box1{
+  border: 1px solid black;
+  margin: auto;
+}
+h1{
+  font-variant: small-caps;
+  font-weight: 200;
+  font-style: oblique;
+  margin: auto;
+  text-align: center;
+  color: #fafafa;
+}
+.heading{
+    background-color: #2a2b2a;
+    height: 200;
+}
+.heading img {
+  float: left;
+  width: 400px;
+  height: 100px;
+  background: #555;
+}
+body{
+  background-image: url(
+    "https://wallpapercave.com/wp/wp3260613.jpg");
+}
